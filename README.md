@@ -6,11 +6,14 @@ Signal Processing Lab is a small browser-based audio DSP playground, made with C
 
 The idea is simple: load an audio file, pick a channel, look at the waveform, choose a time region, and see what its frequency content looks like. It is the kind of tool I wanted while poking around with FFTs, windows, spectrograms, and the little details that make signals feel less abstract.
 
-Everything runs locally in the browser. There is no backend, no API, no build step, and no dependency stack hiding behind the page. Just HTML, CSS, JavaScript, the Web Audio API, and a fair amount of DSP code written by hand.
+Everything runs locally in the browser. There is no backend, no API, no build step, and no dependency stack hiding behind the page. Just HTML, CSS, JavaScript, the Web Audio API, and a fair amount of DSP code written by hand. <br> <br>
 
 <div align="center">
   <img src="src/WEBoverview.png" width="650">
-</div>
+</div>  
+
+<br>
+Here's the website URL:  https://subhn-n.github.io/Signal-Processing-Lab/
 
 ## Live Demo
 
