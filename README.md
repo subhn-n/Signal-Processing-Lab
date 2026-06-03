@@ -13,13 +13,14 @@ Everything runs locally in the browser. There is no backend, no API, no build st
 </div>  
 
 <br>
-Here's the website URL:  https://subhn-n.github.io/Signal-Processing-Lab/
 
 ## Live Demo
 
-This project is designed to work on GitHub Pages as a static site.
+- This project is designed to work on GitHub Pages as a static site.
 
-If you are running it locally, start a small HTTP server and open the page in your browser:
+Here's the website URL:  https://subhn-n.github.io/Signal-Processing-Lab/ <br> <br>
+
+- If you are running it locally, start a small HTTP server and open the page in your browser:
 
 ```bash
 python3 -m http.server 8000 -d projects/signal-processing-lab
